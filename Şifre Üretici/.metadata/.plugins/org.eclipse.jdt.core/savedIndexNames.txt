@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\MONSTER\eclipse-workspace\Þifre Üretici\.metadata\.plugins\org.eclipse.jdt.core
+2149343294.index
+1865797976.index
+3248403985.index
